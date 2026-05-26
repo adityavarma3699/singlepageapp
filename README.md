@@ -1,3 +1,3 @@
 # singlepageapp
-my info
-read me is a documentation
+# my info
+# read me is a documentation
